@@ -13,9 +13,9 @@ Projeto de análise de dados criminais utilizando grafos para identificar relaç
 ## Colaboradores
 Este projeto foi desenvolvido em colaboração por:
 
-- [Seu Nome](https://github.com/seu-usuario)
-- [Nome do Colaborador 1](https://github.com/usuario1)
-- [Nome do Colaborador 2](https://github.com/usuario2)
+- [Pedro Augusto Gonçalves Lucena]([https://github.com/seu-usuario](https://github.com/pedrodev3005)
+- [Maria Clara Colaço]([https://github.com/usuario1](https://github.com/claracolaco)
+- [Sophia Sales](https://github.com/usuario2)
 
 ## Como Executar o Projeto
 1. Instale as dependências com `pip install -r requirements.txt`.
