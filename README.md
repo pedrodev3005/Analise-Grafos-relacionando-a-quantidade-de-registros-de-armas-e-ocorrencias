@@ -13,8 +13,8 @@ Projeto de análise de dados criminais utilizando grafos para identificar relaç
 ## Colaboradores
 Este projeto foi desenvolvido em colaboração por:
 
-- [Pedro Augusto Gonçalves Lucena]([https://github.com/seu-usuario](https://github.com/pedrodev3005))
-- [Maria Clara Colaço]([https://github.com/usuario1](https://github.com/claracolaco))
+- [Pedro Augusto Gonçalves Lucena](https://github.com/pedrodev3005)
+- [Maria Clara Colaço]((https://github.com/claracolaco)
 - [Sophia Sales](https://github.com/usuario2))
 
 ## Como Executar o Projeto
