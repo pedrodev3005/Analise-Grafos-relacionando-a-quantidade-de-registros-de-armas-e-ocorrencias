@@ -15,7 +15,7 @@ Este projeto foi desenvolvido em colaboração por:
 
 - [Pedro Augusto Gonçalves Lucena](https://github.com/pedrodev3005)
 - [Maria Clara Colaço](https://github.com/claracolaco)
-- [Sophia Sales](https://github.com/usuario2)
+- [Sophia Sales](https://github.com/Sophia7b)
 
 ## Como Executar o Projeto
 1. Instale as dependências com `pip install -r requirements.txt`.
