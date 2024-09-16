@@ -7,7 +7,7 @@ Projeto de análise de dados criminais utilizando grafos para identificar relaç
 
 ## Tecnologias Utilizadas
 - **Python** com a biblioteca **bibgrafo** para a modelagem de grafos.
-- **Pandas** para manipulação de dados;
+- **Pandas** para manipulação de dados.
 - **Gephi** para visualização gráfica dos grafos.
 
 ## Colaboradores
