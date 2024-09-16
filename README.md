@@ -18,9 +18,21 @@ Este projeto foi desenvolvido em colaboração por:
 - [Sophia Sales](https://github.com/Sophia7b)
 
 ## Como Executar o Projeto
-1. Instale as dependências com `pip install -r requirements.txt`.
-2. Execute o script `analise_grafo.py` para gerar o grafo e os relatórios.
-3. Os arquivos CSV necessários estão incluídos no repositório.
+1. Baixe os arquivos presentes na pasta "Base_dados".
+2. Cerifique-se de ter as bibliotecas necessárias já instaladas no seu computador.
+3. Abra os códigos fontes na sua IDE.
+4. Corrija os caminhos de arquivos presentes nos códigos fonte para os seus respectivos caminhos.
+5. Execute os códigos.
+
+## Observação:
+- O código "criador_grafo_Brasil+analise.py" criará arquivos .csv de arestas e vértices de um grafo reunindo todos os estados brasileiros e seus respectivos registros/ocorrências, e o código "criador_grafos_por_estado.py" irá criar arquivos .csv de arestas e vértices para cada estado da paraíba. Esses arquivos podem ser adicionados ao gephi para analise visual dos grafos.
+- Além disso, algumas analises já são feitas no própio arquivo "criador_grafo_Brasil+analise.py", analise a saída do mesmo.
+
+## Explicacão dos documentos desse repositório:
+- Arestas_Criadas: Possui os arquivos .csv das arestas de cada estado. Os arquivos dessa pasta foram criados pelos algoritmos "criador_grafo_Brasil+analise.py" e "criador_grafo_Brasil+analise.py".
+- Base_dados: Possui os arquivos .csv que serviram como base para nossa analise.
+- Codigo_fonte: Possui os códigos fontes utilizados para analise.
+- Vertices_Criados: Possui os arquivos .csv dos vertices de cada estado. Os arquivos dessa pasta foram criados pelos algoritmos "criador_grafo_Brasil+analise.py" e "criador_grafo_Brasil+analise.py".
 
 ## Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir com o projeto, por favor, faça um fork e envie um pull request.
